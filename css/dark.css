@@ -954,7 +954,7 @@ body.top-search-open .dark #header-wrap:not(.not-dark) #top-search a,
 .dark .heading-block:not(.not-dark) h3,
 .dark .heading-block:not(.not-dark) h4,
 .dark .emphasis-title:not(.not-dark) h1,
-.dark .emphasis-title:not(.not-dark) h2 { color: #222; }
+.dark .emphasis-title:not(.not-dark) h2 { color: #fff; }
 
 .dark .heading-block.not-dark h1,
 .dark .heading-block.not-dark h2,
